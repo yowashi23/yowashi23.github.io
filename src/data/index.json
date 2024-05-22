@@ -1,0 +1,18 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/lsh.png",
+      "title": "LSH Search Engine",
+      "description": "A Python-powered search engine that uses Locality-Sensitive Hashing algorithms to measure the similarity between multiple URLs.",
+      "link": "https://github.com/yowashi23/search-engine"
+    },
+    {
+      "id": "2",
+      "src": "./img/eatsy.jpeg",
+      "title": "Eatsy",
+      "description": "A web app built on Flask backed by a logistic regression model that generates restaurant recommendations based on friends' Yelp ratings.",
+      "link": "https://github.com/tGoh98/eatsy"
+    }
+  ]
+}

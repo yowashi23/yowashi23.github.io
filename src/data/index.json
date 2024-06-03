@@ -14,5 +14,13 @@
       "description": "A web app built on Flask backed by a logistic regression model that generates restaurant recommendations based on friends' Yelp ratings.",
       "link": "https://github.com/tGoh98/eatsy"
     }
+    ,
+    {
+      "id": "3",
+      "src": "./img/blank.png",
+      "title": "Building...",
+      "description": "Coming soon!",
+      "link": ""
+    }
   ]
 }

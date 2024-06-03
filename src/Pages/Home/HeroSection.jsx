@@ -15,13 +15,15 @@ export default function HeroSection() {
                         {/* Shin */}
                     </h1>
                     <p className="hero--section-description">
-                        For work, I appreciate solving problems with data, critical thinking, and logic.
+                        For work, I appreciate solving problems with data.
+                        {/* , critical thinking, and logic */}
                         <br />
                         <br />
                         Beyond work, I enjoy sports and playing music.
                         <br />
                         <br />
-                        I'm a Rice alum based in Cambridge, MA from Auckland, New Zealand.
+                        I'm a Rice alum from Auckland, New Zealand.
+                        {/* based in Cambridge, MA */}
                     </p>
                 </div>
                 <br />

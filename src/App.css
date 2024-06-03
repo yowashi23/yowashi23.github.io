@@ -273,6 +273,7 @@ h2 {
     align-items: center;
     justify-content: center;
     gap: 42.6px;
+    width: 100%;
     /* width: 66.666%; */
 }
 
@@ -282,7 +283,7 @@ h2 {
 }
 
 .portfolio--section--img  > img {
-    height: 600px;
+    /* height: 600px; */
     width: 100%;
     /* object-fit: cover; */
 }

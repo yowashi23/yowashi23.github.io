@@ -26,8 +26,8 @@ export default function HeroSection() {
                         {/* based in Cambridge, MA */}
                     </p>
                 </div>
-                <br />
-                <button className="btn btn-primary" onClick={() => window.open("./Yong_Shin_Resume_A.pdf")}>Resume</button>
+{/*                 <br />
+                <button className="btn btn-primary" onClick={() => window.open("./Yong_Shin_Resume_A.pdf")}>Resume</button> */}
             </div>
             <div className="hero--section--img">
                 <img src="./img/headshot-cropped.jpg" alt="Hero Section" />

@@ -33,5 +33,5 @@ export default function HeroSection() {
                 <img src="./img/headshot-cropped.jpg" alt="Hero Section" />
             </div>
         </section>
-    )
-    ;
+    );
+}
